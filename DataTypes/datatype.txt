@@ -1,0 +1,35 @@
+Data Types:
+
+->are the categorization or classification of data items
+
+->it represents the kind of value that tells
+
+what operations can be performed on a particular data
+
+
+built-in data type:
+
+-->Numeric-Integer,float and complex 
+
+-->sequence type: string,list and tuple
+
+-->Boolean
+
+-->set 
+
+-->dictionary
+
+#Mutable object:mutable objects can change their state or content
+
+    1.Mutable objects can change their state or content
+    Ex:list,dict,Set
+    2.Imutable objects cannot change their state or content
+    Ex:Numeric,Float,Boolean,string,Tuple
+
+
+   #list:
+
+   ->mutable object
+
+   -> is a sequence data type which is used to store collection  of data
+   ->ordered 

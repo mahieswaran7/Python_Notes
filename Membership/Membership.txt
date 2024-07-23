@@ -1,0 +1,8 @@
+
+#Membership operators
+
+->in (True) if value is found the sequence
+->not in (True) if value is not found in the sequence
+->used to test whether value or variable is in sequence
+
+

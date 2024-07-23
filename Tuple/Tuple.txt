@@ -1,0 +1,7 @@
+#Tuple
+
+-> immutable object
+
+->used to store the values
+
+-> ordered

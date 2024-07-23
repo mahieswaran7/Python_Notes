@@ -1,0 +1,21 @@
+
+Function:
+
+-> A function is the block of code that performs some specific task
+
+-> Functions are reusable pieces of programs
+
+-> They allow you to give a name  to a block of statement,
+allowing you to run that block using speicified name anywhere in your program and any number of items
+
+this is known as calling the function
+
+-> the names given in the function definition are called parameters
+
+whereas the values you supply in the function call arguments
+
+-> you define a functio with def keyword,then write
+identifier(name) followed by paranthesis and a colon 
+
+
+

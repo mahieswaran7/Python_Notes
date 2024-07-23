@@ -1,0 +1,13 @@
+#While
+
+-> while  loop is used to execute a block of statements repeatedly untill 
+  a given condition is satisfied
+
+ -> when the condition become false, the line immediately after the looping the given 
+  is executed
+
+  #syntax:
+
+   while(expression):
+   
+    loop body 

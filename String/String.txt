@@ -1,0 +1,4 @@
+#string
+
+-> sequence of character
+->create a string using single quote,double quote or for multiline statement we use """ """

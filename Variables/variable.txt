@@ -1,0 +1,13 @@
+variables:
+
+-> containers to store the values
+->used to refer memory location
+->also known as the identifier
+->not need to declare the variable in python
+
+Keywords:
+ ->are the special reserved words that have a 
+ specific purposes and meanings
+
+ id()-builtin function
+ 

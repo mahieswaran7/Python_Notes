@@ -1,0 +1,8 @@
+
+   f-string 
+     ->To insert a variable's value into a string ,
+     ->Place the letter f immediately before opening the quotation mark 
+     ->Put braces around the variable names 
+     ->Python will replace each variable with its value when string is displayed 
+     ->These Strings are called f strings 
+     ->f-string were introduced in python 3.6

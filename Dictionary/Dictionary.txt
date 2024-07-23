@@ -1,0 +1,11 @@
+Dictionary
+
+-> A dictionary is a collection of key :value pair
+
+-> here, each key is connected to a value
+
+->use a key to access the value
+
+
+-> the count will be reusing in dictionary
+
