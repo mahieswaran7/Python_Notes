@@ -1,0 +1,22 @@
+-> msp,filter and paradigms of functional programming
+
+-> map and filter come built-in with python(built-in functions)
+
+->reduce,needs to be imported as it resides in the functools module
+
+->syntax
+
+filter(function,iterable)
+->function:it tests if each element of a sequence True or Not
+
+->sequence:which needs to be filtered,it can be list,sets,tuples
+or containers of any iterators.
+
+-> Lambda function(Anonyms function)
+
+->function without a name
+
+-> this function can take any number of arguments but only one expression,
+which is evaluated and returned
+
+syntax: lambda arguments:expression

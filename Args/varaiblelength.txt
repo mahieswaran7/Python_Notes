@@ -1,0 +1,6 @@
+variable length argumemnt:
+
+allows a function to accept a variable number of arguments
+
+1) Non-keyworded arguments(*args)
+2)Keywords Arguments(**kwargs)
